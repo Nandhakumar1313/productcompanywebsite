@@ -608,7 +608,8 @@ You know you have come to the right place when you reach a NK PRIVATE LIMITED fa
 ![Screenshot (127)](https://github.com/Nandhakumar1313/productcompanywebsite/assets/120230694/26b9263e-8f19-4e46-8b47-79b767cd3c89)
 
 ## server page
-![Screenshot (128)](https://github.com/Nandhakumar1313/productcompanywebsite/assets/120230694/4f9de59f-5d5e-42a3-b060-1b6a00687f7
+![Screenshot (128)](https://github.com/Nandhakumar1313/productcompanywebsite/assets/120230694/875c46ec-c4f0-4b1f-a598-b67afd15e124)
+
 
 ## RESULT:
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
