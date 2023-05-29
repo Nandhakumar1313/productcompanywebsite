@@ -595,10 +595,20 @@ You know you have come to the right place when you reach a NK PRIVATE LIMITED fa
 ```
 ## OUTPUT:
 
-### Home Page:
+## Home page
+![Screenshot (124)](https://github.com/Nandhakumar1313/productcompanywebsite/assets/120230694/2ecfdd2c-4c5d-4371-86ad-b468694d1f89)
 
+## product page
+![Screenshot (125)](https://github.com/Nandhakumar1313/productcompanywebsite/assets/120230694/4e79cb7a-1f7e-48d8-a4bf-7acd583aae84)
 
+## people page
+![Screenshot (126)](https://github.com/Nandhakumar1313/productcompanywebsite/assets/120230694/1af31e69-edcb-4ecc-bdce-d80d73053e1e)
 
-## Result:
+## contact page
+![Screenshot (127)](https://github.com/Nandhakumar1313/productcompanywebsite/assets/120230694/26b9263e-8f19-4e46-8b47-79b767cd3c89)
 
+## server page
+![Screenshot (128)](https://github.com/Nandhakumar1313/productcompanywebsite/assets/120230694/4f9de59f-5d5e-42a3-b060-1b6a00687f7
+
+## RESULT:
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
